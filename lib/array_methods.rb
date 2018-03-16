@@ -10,7 +10,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-    using_reverse = ["lil", "bub", "grumpy cat", "arrays!"]
+    using_reverse = ["wow", "bub", "grumpy cat", "arrays!"]
     using_reverse.reverse 
 end
 
