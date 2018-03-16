@@ -1,7 +1,7 @@
 def using_include(array, element)
     using_include = ["lil' bub", "grumpy cat", "Maru"]
-    using_include.include?("rob")
     using_include.include?("Maru")
+    using_include.include?("sam")
 
 end
 
