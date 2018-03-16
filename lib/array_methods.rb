@@ -5,7 +5,7 @@ end
 
 
 def using_sort(array)
-    using_sort = ["blue", "wow", "gree", "orange"]
+    using_sort = ["I", "wow", "gree", "orange"]
     using_sort.sort
 end
 
